@@ -11,6 +11,7 @@ namespace CacheTest
     class Program
     {
         //添加注释代码
+        //再来一行注释代码
         static void Main(string[] args)
         {
             var client = new RedisClient("192.168.107.128", 6379);
